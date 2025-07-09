@@ -1,1 +1,1 @@
-S5 Microproceestor and microcontroller lab
+📘 S5 Microprocessor and Microcontroller Lab (KTU 2019 Scheme)
